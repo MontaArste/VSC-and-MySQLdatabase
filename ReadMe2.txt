@@ -1,0 +1,1 @@
+This is paragraph for ReadMe2 file.
